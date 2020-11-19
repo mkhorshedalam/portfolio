@@ -1,0 +1,28 @@
+
+footer{
+	width:695px;
+	margin:0 auto;
+	height:auto;
+	background:	#FFFFFF;
+	color:#000000;
+	padding:35px 0px;
+}
+.footer-icon{
+	float:right;
+	margin-top:-40px;
+}
+.footer-icon i{
+	font-size:30px;
+	padding:0px 10px;
+	transition:.5s;
+}
+.footer-icon i:hover{
+	color:yellow;
+	transform:scale(.8);
+}
+.footer-text{
+	font-size:20px;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin:0px 20px;
+}
